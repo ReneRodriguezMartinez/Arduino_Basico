@@ -1,7 +1,7 @@
 /*
   René Rodríguez Martínez 
 
-  Ejemplo encender un led de manera intermitente
+  Ejemplo encender un led de manera intermitente atraves de un boton
 */
 
 const int LED = 3;
